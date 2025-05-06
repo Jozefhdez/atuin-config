@@ -1,0 +1,12 @@
+[theme]
+name = "nord"
+
+[colors]
+Base = "#d8dee9"        # Snow Storm
+AlertInfo = "#88c0d0"   # Frost
+AlertWarn = "#bf616a"   # Aurora
+AlertError = "#d08770"  # Aurora
+Annotation = "#e5e9f0"  # Snow Storm
+Guidance = "#eceff4"    # Snow Storm
+Important = "#a3be8c"   # Frost
+Title = "#5e81ac"       # Frost

@@ -1,0 +1,12 @@
+[theme]
+name = "gruvbox"
+
+[colors]
+Base = "#ebdbb2"        # Neutral light
+AlertInfo = "#83a598"   # Gruvbox blue
+AlertWarn = "#fabd2f"   # Gruvbox yellow
+AlertError = "#fb4934"  # Gruvbox red
+Annotation = "#d5c4a1"  # Neutral light
+Guidance = "#b8bb26"    # Gruvbox green
+Important = "#d3869b"   # Gruvbox purple
+Title = "#fe8019"       # Gruvbox orange
