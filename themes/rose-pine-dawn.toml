@@ -1,0 +1,15 @@
+[theme]
+name = "rose-pine-dawn"
+
+[colors]
+Base = "#fffaf3"         # Surface
+AlertInfo = "#56949f"    # Foam (azul suave)
+AlertWarn = "#ea9d34"    # Gold (amarillo)
+AlertError = "#b4637a"   # Love (rojo)
+Annotation = "#9893a5"   # Muted (gris suave)
+Guidance = "#286983"     # Pine (azul profundo)
+Important = "#d7827e"    # Rose (rosita)
+Title = "#907aa9"        # Iris (morado suave)
+Runtime = "#ea9d34"      # Gold (para duración)
+TimeAgo = "#56949f"      # Foam (para "hace X tiempo")
+SelectedCommand = "#d7827e" # Rose (comando seleccionado)
