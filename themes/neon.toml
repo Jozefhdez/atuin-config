@@ -1,0 +1,13 @@
+[theme]
+name = "neon"
+parent = "default"
+
+[colors]
+AlertInfo = "#00ffff"       # Cyan brillante
+AlertWarn = "#ffcc00"       # Amarillo neón
+AlertError = "#ff0055"      # Magenta rojo
+Annotation = "#8888ff"      # Azul violeta tenue
+Base = "#FFFF33"            # Verde neón
+Guidance = "#ff00ff"        # Magenta puro
+Important = "#00f0ff"       # Azul eléctrico
+Title = "#ff00aa"           # Fucsia fuerte
